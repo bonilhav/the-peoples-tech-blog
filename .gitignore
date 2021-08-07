@@ -1,8 +1,9 @@
 02-Homework
 .env
 node_modules
+
 public
 utils
 views
-models
-
+index.html
+.vscode
